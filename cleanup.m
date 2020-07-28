@@ -9,6 +9,7 @@ rmpath(fullfile(projectRootDir,'models'));
 rmpath(fullfile(projectRootDir,'work'));
 rmpath(fullfile(projectRootDir,'scripts'));
 rmpath(fullfile(projectRootDir,'code'));
+% a small change.
 
 % Reset the loction of Simulink-generated files
 Simulink.fileGenControl('reset');
