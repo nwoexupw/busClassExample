@@ -9,6 +9,7 @@ addpath(fullfile(projectRootDir,'models'),'-end');
 addpath(fullfile(projectRootDir,'work'),'-end');
 addpath(fullfile(projectRootDir,'scripts'),'-end');
 addpath(fullfile(projectRootDir,'code'),'-end');
+% this is a test comment
 
 % Save Simulink-generated helper files to work
 Simulink.fileGenControl('set',...
